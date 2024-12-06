@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193061546260",
+    "project_id": "digitalserv-3cab9",
+    "storage_bucket": "digitalserv-3cab9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193061546260:android:2a60434fe09990c6397a01",
+        "android_client_info": {
+          "package_name": "alba.oscar.digitalserv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrO8-0P2_m1xzOBgEaQVXT4YIs9Xmz9m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
